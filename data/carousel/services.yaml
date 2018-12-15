@@ -1,0 +1,8 @@
+weight: 2
+title: "Services"
+description: >
+  <ul class="list-style-none">
+     <li>Development</li>
+     <li>Training</li>
+   </ul>
+image: "img/carousel/development.jpeg"

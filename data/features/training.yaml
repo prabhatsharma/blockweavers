@@ -1,0 +1,4 @@
+weight: 6
+name: "Training"
+icon: "fa fa-university"
+description: "Training on bockchain concepts, systems (ethereum, hyperledger, bitcoin, etc)"
